@@ -1,0 +1,1 @@
+Bản cập nhật VI/EN: dịch đầy đủ nội dung tour; giá USD minh họa theo 26.000 VND/USD; mọi đăng ký thanh toán được tính và gửi theo VND. Video YouTube 2Croq_ejksY. Push index.html, assets/, .gitignore (không thêm MP4).
