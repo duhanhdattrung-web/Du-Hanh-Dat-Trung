@@ -1,0 +1,10 @@
+DU HÀNH ĐẤT TRUNG — PHIÊN BẢN FULL HD
+
+1. Giải nén ZIP này.
+2. Sao chép file video gốc "Video Du Hành Đất Trung.mp4" mà nhóm đã cung cấp vào thư mục "DuHanhDatTrung_Web/videos/".
+3. Đổi tên bản sao thành "thuyet-minh-1080p.mp4".
+4. Mở index.html hoặc đăng toàn bộ thư mục lên hosting.
+
+Website sẽ phát video 1920x1080 (Full HD) gốc. File video không được gói trong ZIP vì kích thước lớn; website vẫn sử dụng đầy đủ video sau khi chép đúng tên.
+
+Các thay đổi khác: cân chỉnh xuống dòng cho tiêu đề, nội dung, thẻ sự kiện, nút và màn hình di động.

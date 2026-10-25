@@ -1,2 +1,5 @@
-
-/videos/thuyet-minh-1080p.mp4
+*.mp4
+*.mov
+*.avi
+*.webm
+.DS_Store
